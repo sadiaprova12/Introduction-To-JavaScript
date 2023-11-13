@@ -10,7 +10,7 @@
  //String
  var Person = "Sadia Siddika";
  var Location = "Uttara-Dhaka";
- var Special = "Samnan";
+ var Special = "Me";
 
  //Bollean
  var Serious = true;
