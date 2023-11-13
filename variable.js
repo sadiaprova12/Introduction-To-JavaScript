@@ -8,8 +8,8 @@
  var Pocketmoney = 200;
 
  //String
- var Person = "Sadia Siddika";
- var Location = "Uttara-Dhaka";
+ var Person = "Pom Pom";
+ var Location = "New York";
  var Special = "Me";
 
  //Bollean
