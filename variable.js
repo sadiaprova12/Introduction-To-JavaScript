@@ -10,7 +10,7 @@
  //String
  var Person = "Pom Pom";
  var Location = "New York";
- var Special = "Me";
+ var Special = "Food";
 
  //Bollean
  var Serious = true;
