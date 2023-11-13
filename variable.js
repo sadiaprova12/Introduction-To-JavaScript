@@ -1,18 +1,18 @@
 //Variable Declare
 
 //numeric
- var EggPrice = 120;
- var Age = 23;
- var Temperature = 22;
- var Weight = 58;
- var Pocketmoney = 200;
+ var eggPrice = 120;
+ var age = 23;
+ var temperature = 22;
+ var weight = 58;
+ var pocketMoney = 200;
 
  //String
- var Person = "Pom Pom";
- var Location = "New York";
- var Special = "Food";
+ var person = "Pom Pom";
+ var location = "New York";
+ var special = "Food";
 
  //Bollean
- var Serious = true;
+ var serious = true;
  var isSingle = false;
  var isFullMarks = true;
