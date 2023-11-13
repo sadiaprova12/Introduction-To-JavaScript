@@ -1,6 +1,7 @@
 /***
  * 1. number ==> 55, 898, -32
- * 2. integer: 2,5, [kunta odd(), kunta even()]
+ * 2. integer number : 2,5
+ * [kunta odd(), kunta even()]
  * 3. float: decimal: 2.5, 13.67, 32.69
  * 4. operation: addition, substraction, multiplication,division,reminder
  * 5. percent
