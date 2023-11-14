@@ -25,4 +25,10 @@ console.log(totalCost); */
 var money = 500;
 var player = 10;
 var eachPlayer = money / player;
-console.log(eachPlayer);
+//console.log(eachPlayer);
+
+var conciler = 450;
+var eyeliner = 500;
+var cosmeticsPrice = conciler / eyeliner;
+console.log(cosmeticsPrice);
+
