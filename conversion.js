@@ -5,5 +5,5 @@ var totalPrice = price1 + 10;
 
 var firstName = 'Tom &';
 var secondName = 'Jerry';
-var fullName = firstName + secondName;
+var fullName = firstName + ' ' + secondName;
 console.log(fullName);
