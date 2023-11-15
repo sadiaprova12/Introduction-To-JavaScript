@@ -17,4 +17,16 @@ var totalFruitPrice = 400 + 300;
 var harryMom = 1000;
 var totalFruitPrice = 700;
 var saveMoney = harryMom - totalFruitPrice;
-console.log(saveMoney);
+//console.log(saveMoney);
+
+/** Task 2 */
+
+var mathematics = 75.25;
+var biology = 65;
+var chemistry = 80;
+var physics = 35.45;
+var bangla = 99.50;
+var totalResults = mathematics + biology + chemistry + physics + bangla;
+var result = totalResults / 5;
+result = result.toFixed(2);
+console.log(result);
