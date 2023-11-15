@@ -36,4 +36,11 @@ result = result.toFixed(2);
 var firstLine = 'I am going to be';
 var secondLine = 'an awesome web developer';
 var oneLine = firstLine + ' ' + secondLine;
-console.log(oneLine);
+//console.log(oneLine);
+
+/** Task 4 */
+
+var sarah = 119;
+var mom =  5;
+var printNumber = sarah % mom;
+console.log(printNumber);
