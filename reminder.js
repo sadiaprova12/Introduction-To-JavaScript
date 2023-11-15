@@ -29,4 +29,11 @@ var bangla = 99.50;
 var totalResults = mathematics + biology + chemistry + physics + bangla;
 var result = totalResults / 5;
 result = result.toFixed(2);
-console.log(result);
+//console.log(result);
+
+/** Task 3 */
+
+var firstLine = 'I am going to be';
+var secondLine = 'an awesome web developer';
+var oneLine = firstLine + ' ' + secondLine;
+console.log(oneLine);
